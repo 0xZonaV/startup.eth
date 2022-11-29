@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
-    "start": "craco start",
-    "build": "craco build",
+    "dev": "next dev server.js",
+    "start": "next start",
+    "build": "next build",
     "test": "craco test",
     "eject": "craco eject"
   },
