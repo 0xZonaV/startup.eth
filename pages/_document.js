@@ -33,9 +33,9 @@ export default class MyDocument extends Document {
         return (
             <Html>
                 <Head>
-                    <link rel="apple-touch-icon" sizes="180x180" href="../public/apple-touch-icon.png"></link>
-                    <link rel="icon" type="image/png" sizes="32x32" href="../public/favicon-32x32.png"></link>
-                    <link rel="icon" type="image/png" sizes="16x16" href="../public/favicon-16x16.png"></link>
+                    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png"></link>
+                    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png"></link>
+                    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png"></link>
                     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"></link>
                     <title>StartUp.eth</title>
                 </Head>
