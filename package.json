@@ -11,6 +11,7 @@
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.4",
     "@craco/craco": "^6.4.5",
+    "@netlify/plugin-nextjs": "^4.30.0",
     "@next/font": "13.1.1",
     "@semantic-ui-react/craco-less": "^2.0.2",
     "@truffle/hdwallet-provider": "^1.5.1",
