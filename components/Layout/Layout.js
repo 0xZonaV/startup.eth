@@ -9,10 +9,11 @@ const Layout = ({children}) => {
     <div>
         <Container  style={{fontFamily: "'Kumbh Sans', sans-serif", color: "rgba(167, 171, 235, 1)"}}>
         <Head>
-          <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"
-          ></link>
+            <link
+                rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"
+            ></link>
+            <title>StartUp.eth</title>
         </Head>
         <Header />
         {children}

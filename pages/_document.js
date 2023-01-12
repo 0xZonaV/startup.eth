@@ -37,7 +37,6 @@ export default class MyDocument extends Document {
                     <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png"></link>
                     <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png"></link>
                     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"></link>
-                    <title>StartUp.eth</title>
                 </Head>
                 <body>
                     <Main />
